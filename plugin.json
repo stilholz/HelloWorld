@@ -4,5 +4,5 @@
     "namespace"         :"HelloWorld",
     "author"            :"Daniela Pioch",
     "type"              :"template",
-    "serviceProvider"   :null
+    "serviceProvider"   :"HelloWorld\\Providers\\HelloWorldServiceProvider"
 }
